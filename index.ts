@@ -1,7 +1,7 @@
 #! usr/bin/env node
 import inquirer from 'inquirer';
 
-const systemGenretedno = Math.floor(Math.random() * 10);
+const systemGenretedno = Math.floor(Math.random() * 100);
 
 console.log('System Generated Number:', systemGenretedno);
 
